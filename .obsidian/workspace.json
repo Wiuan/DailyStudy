@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安装&&/obisidian -git 同步.md",
+                "file": "997.安装&&工具/obisidian -git 同步.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cae24ec4ab556eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000.wiki/001.toread.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bc13ea3a5488baf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 256.5
   },
   "right": {
     "id": "47606daca80ccfc2",
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "安装&&/obisidian -git 同步.md",
+                "file": "000.wiki/001.toread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "安装&&/obisidian -git 同步.md",
+                "file": "000.wiki/001.toread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "安装&&/obisidian -git 同步.md"
+                "file": "000.wiki/001.toread.md"
               }
             }
           },
@@ -138,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,11 +176,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76b81550bc4a6503",
+  "active": "4cae24ec4ab556eb",
   "lastOpenFiles": [
+    "997.安装&&工具/obisidian -git 同步.md",
+    "000.wiki/001.toread.md",
+    "未命名",
+    "001.文集/01.英语/Vol.000 XXXX.md",
+    "997.安装&&工具/obisidian -剪藏.md",
+    "001.文集/01.英语",
+    "001.文集",
+    "998.files",
+    "000.wiki",
+    "999.clippers/202502/Obsidian 通过 MarkDownload 插件离线保存网页.md.md",
+    "999.clippers/202502/images/Obsidian 通过 MarkDownload 插件离线保存网页/kZBHzafOT3-700.webp",
+    "999.clippers/202502/windows 软链接的建立及删除 - &大飞 - 博客园.md.md",
+    "999.clippers/202502/Unconfirmed 86515.crdownload",
+    "999.clippers/202502",
+    "999.clippers/202502 - 快捷方式.lnk",
+    "ty.md",
+    "999.clippers",
     "hi.md",
-    "安装&&/obisidian -git 同步.md",
-    "安装&&",
+    "997.安装&&工具",
     "你好.md",
     "未命名.canvas",
     "2025-02-17.md"
