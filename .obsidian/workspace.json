@@ -23,11 +23,16 @@
             "id": "7bc13ea3a5488baf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,13 +149,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "6f7f27e9622c9700",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,14 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76b81550bc4a6503",
+  "active": "7bc13ea3a5488baf",
   "lastOpenFiles": [
+    "002.博主/01.技术.md",
+    "000.wiki/001.toDo.md",
     "000.wiki/002.如何阅读论文.md",
     "001.文集/01.英语/Vol.000 XXXX.md",
-    "000.wiki/001.toDo.md",
     "997.安装&&工具/obisidian -git 同步.md",
     "000.wiki/001.toread.md",
-    "002.博主/01.技术.md",
     "002.博主",
     "未命名",
     "997.安装&&工具/obisidian -剪藏.md",
