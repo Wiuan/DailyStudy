@@ -23,7 +23,7 @@
   "openInObsidianWeb": false,
   "useCustomIcons": false,
   "useWebview": false,
-  "useIconList": true,
+  "useIconList": false,
   "darkMode": false,
   "randomBackground": false,
   "lastOpenedFiles": true,
@@ -50,5 +50,5 @@
   "enableHtmlPreview": true,
   "supportLivePreviewInlineUrl": false,
   "enableTreeView": false,
-  "focusSearchBarViaKeyboard": true
+  "focusSearchBarViaKeyboard": false
 }
