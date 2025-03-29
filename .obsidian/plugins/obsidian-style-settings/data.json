@@ -4,6 +4,6 @@
   "Components@@outline-enhanced": true,
   "Appearance-light@@card-layout-open-light": true,
   "Appearance-light@@theme-light-style-select": "theme-light-background-adapt",
-  "Editor@@line-hover-indicator": true,
+  "Editor@@line-hover-indicator": false,
   "Editor@@codeblock-style-select": "codeblock-style-dracula"
 }

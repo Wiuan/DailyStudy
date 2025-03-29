@@ -2,5 +2,8 @@
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "000.wiki",
-  "attachmentFolderPath": "998.Flies"
+  "attachmentFolderPath": "998.Flies",
+  "showIndentGuide": false,
+  "useTab": false,
+  "spellcheck": false
 }
