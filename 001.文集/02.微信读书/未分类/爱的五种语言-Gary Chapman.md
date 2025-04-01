@@ -7,8 +7,8 @@ author: Gary Chapman
 cover: https://res.weread.qq.com/wrepub/CB_Dar9Kb9LE3pq6dG6cc_parsecover
 readingStatus: 读完
 progress: 100%
-totalReadDay: 7
-readingTime: 2小时1分钟
+totalReadDay: 8
+readingTime: 2小时2分钟
 readingDate: 2022-12-25
 finishedDate: 2023-01-10
 isbn: 

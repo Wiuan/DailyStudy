@@ -10,9 +10,9 @@ progress: 100%
 totalReadDay: 23
 readingTime: 9小时4分钟
 readingDate: 2025-01-17
+finishedDate: 2025-03-21
 isbn: 
 lastReadDate: 2025-03-21
-finishedDate: 2025-03-21
 
 ---
 # 元数据

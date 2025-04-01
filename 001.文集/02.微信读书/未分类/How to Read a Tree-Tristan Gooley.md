@@ -7,7 +7,8 @@ author: Tristan Gooley
 cover: https://res.weread.qq.com/wrepub/CB_EyQ2aQ2aj44V6rv6t7CCR2GI_parsecover
 readingStatus: 未标记
 progress: "-1"
-readingTime: 0小时1分钟
+totalReadDay: 1
+readingTime: 0小时2分钟
 readingDate: 2025-03-21
 isbn: 
 lastReadDate: 2025-03-22
