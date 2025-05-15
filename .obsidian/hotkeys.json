@@ -125,5 +125,13 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "obsidian-title-index:add-markdown-index": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
   ]
 }
