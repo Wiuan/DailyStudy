@@ -1,6 +1,6 @@
 [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://arxiv.org/html/2403.03100v3)
 ##### 解决什么问题？
-现有语音合成模型在音质、相似度和韵律上的不足
+现有语音合成模型在音质 、相似度和韵律上的不足
 ##### 为什么这么设计，而不是别的方式？
 1. **技术创新点**：
     - **因子化建模**：将语音属性解耦，避免不同特征（如内容和音色）相互干扰，类似仓储中把 “订单优先级” 和 “设备状态” 分开建模，提升调度决策准确性。
