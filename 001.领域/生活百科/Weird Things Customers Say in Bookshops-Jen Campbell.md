@@ -1,17 +1,15 @@
 ---
 doc_type: weread-highlights-reviews
 bookId: CB_BNXFm3FjzClK6ty6tKGliEGi
-reviewCount: 0
+reviewCount: 1
 noteCount: 1
 author: Jen Campbell
 cover: https://res.weread.qq.com/wrepub/CB_8CK8Wy8YD10x6k36kk76v1Rf_parsecover
-readingStatus: 未标记
-progress: "-1"
-totalReadDay: 2
-readingTime: 0小时25分钟
-readingDate: 2025-02-08
+progress: 0%
+readingTime: 0小时45分钟
+readingDate: 1970-01-01
 isbn: 
-lastReadDate: 2025-03-27
+lastReadDate: 2025-04-06
 
 ---
 # 元数据
@@ -35,5 +33,12 @@ lastReadDate: 2025-03-27
 
 # 读书笔记
 
+## Tales From Ripping Yarns
+
+### 划线评论
+> 📌 CUSTOMER(poking his head through the door): Hi, can I bring my dog inside?BOOKSELLER: Sure, there’s a sign on the door that says that friendly dogs are allowed.CUSTOMER: Well, she’s not that friendly; she might bite people.BOOKSELLER: . . . Well then please leave her outside.  ^421114741-7Zd4zFbna
+    - 💭 哈哈哈哈哈哈哈哈哈哈
+    - ⏱ 2025-04-06 20:17:04
+   
 # 本书评论
 
