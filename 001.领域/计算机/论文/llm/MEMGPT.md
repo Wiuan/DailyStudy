@@ -70,4 +70,4 @@ MemGPT 解决**记得什么**问题
 # 5. 总结
 ![[Pasted image 20250720160211.png]]
 
-> **开源地址**：https://research.memgpt.ai  
+**开源地址**：https://research.memgpt.ai  
