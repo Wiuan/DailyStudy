@@ -3,3 +3,7 @@
 
 沉浸式翻译(中英分段显示) https://immersivetranslate.com/zh-Hans/
 word up （不认识的单词下划线）
+
+
+
+Reader（Chrome 插件）1） 屏蔽当前网页的广告 重新生成一个干净的窗口 并且可以保存为排版合理的 pdf 
