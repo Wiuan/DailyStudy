@@ -1,3 +1,7 @@
+# 免费[[AI]]
+[My AI Code Prep & Cline Workflow for Budget Coding/Debugging (Part 1)](https://wuu73.org/blog/aiguide1.html)
+
+(https://wuu73.org/blog/ai-links.html)
 # 1. google ai sudio
 [Greeting and Assistance | Google AI Studio](https://aistudio.google.com/prompts/new_chat)
 # 2. QWEN（复制转文件）
