@@ -142,5 +142,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "templater-obsidian:5.templater/001.日期.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
   ]
 }
