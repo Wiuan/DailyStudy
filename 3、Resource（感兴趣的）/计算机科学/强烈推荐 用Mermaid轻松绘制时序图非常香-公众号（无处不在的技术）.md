@@ -7,7 +7,7 @@ Mermaid是一个开源的图表库，它允许我们使用简单的文本语法�
 
 官方的在线编辑效果预览地址为：https://develop.git.mermaid.live/edit
 
-官方的关于时序图的说明文档：http://mermaid.js.org/syntax/sequenceDiagram.html
+官方的关于[[时序图]]的说明文档：http://mermaid.js.org/syntax/sequenceDiagram.html
 
 ```
 sequenceDiagram    
