@@ -1,3 +1,4 @@
+[[prompt]]
 ```
 #!/bin/bash  
   
