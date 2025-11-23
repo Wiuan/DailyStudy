@@ -11,10 +11,15 @@
             "id": "0285e2d6d0d8578d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2、Area（个人）/财务健康/000.复盘日记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "000.复盘日记"
             }
           }
         ]
@@ -94,6 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2、Area（个人）/财务健康/000.复盘日记.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -138,6 +144,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -148,5 +157,7 @@
     }
   },
   "active": "0285e2d6d0d8578d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "3、Resource（搜索库）/心理学与自我提升/2025-10-13 谈一下我认为学英语最好的方法.md"
+  ]
 }
