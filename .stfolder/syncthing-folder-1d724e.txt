@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: zeeft-q4unf
+created: 2025-11-24T00:25:04+08:00
