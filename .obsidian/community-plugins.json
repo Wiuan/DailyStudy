@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-weread-plugin",
   "obsidian-title-index",
-  "templater-obsidian"
+  "templater-obsidian",
+  "mousewheel-image-zoom",
+  "obsidian-excalidraw-plugin"
 ]
