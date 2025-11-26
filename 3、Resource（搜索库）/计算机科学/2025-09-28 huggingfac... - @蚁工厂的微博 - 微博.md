@@ -2,9 +2,10 @@
 title: huggingfac... - @蚁工厂的微博 - 微博
 source: https://weibo.com/2194035935/Q3O0kjlZo
 author:
-published:
+  - "[[蚁工厂]]"
+published: 
 created: 2025-09-28
-description:
+description: 
 tags:
   - clippings
 type: webpage
