@@ -4,3 +4,5 @@ workspace.json
 .obsidian/plugins/recent-files-obsidian/data.json
 .obsidian/workspace
 .obsidian/app.json
+.obsidian/plugins/hot-reload/
+.git.nosync/
