@@ -1,4 +1,4 @@
-[[prompt]]
+[[3、Resource（搜索库）/工作流配置（配置、插件、网页、Prompt）/prompt]]
 ```
 #!/bin/bash  
   
